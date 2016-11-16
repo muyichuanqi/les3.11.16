@@ -1,10 +1,10 @@
 # les3.11.16
 
 ## NSString 语法
-    NSString 指定为Cacoa字符串<br>
-    1.告知长度<br>
-    2.将自身与其他字符串比较<br>
-    3.将自身转化为整型值或浮点值<br>
+    NSString 指定为Cacoa字符串
+    1.告知长度
+    2.将自身与其他字符串比较
+    3.将自身转化为整型值或浮点值
 ## areIntsDifferent函数
     BOOL areIntsDifferent(int ting1,int ting2){
         if(ting1==ting2){
