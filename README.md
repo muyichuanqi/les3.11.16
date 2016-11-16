@@ -6,7 +6,7 @@
     2.将自身与其他字符串比较
     3.将自身转化为整型值或浮点值
 ## areIntsDifferent函数
-    // BOOL areIntsDifferent(int ting1,int ting2){
+    BOOL areIntsDifferent(int ting1,int ting2){
         if(ting1==ting2){
             return (NO);
         }else{
